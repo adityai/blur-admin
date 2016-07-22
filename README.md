@@ -28,7 +28,7 @@ Yes! We are available for hire. Visit [our homepage](http://akveo.com/) or simpl
 
 ## Features
 * Responsive layout
-* High resolution
+* High resolution 
 * Bootstrap CSS Framework
 * Sass
 * Gulp build
